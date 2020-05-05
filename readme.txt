@@ -8,4 +8,9 @@
 	jest wymagany microsoftowy pakiet office, a ja używam innego. Tam gdzie dało się zrobić zadanie bez użycia funkcji wymagających
 	MS Office starałem się to robić samodzielnie.
 	
-3.	TBC
+3.	W części "UI Interactions" używałem google chrome zamiast IE (wymagało to doinstalowania rozszerzenia do ui path). Ponadto zadanie Practice 3 	wydaje się mieć źle zformułowane polecenie. Tzn. nie podaje linku do tej strony katalogowej ACME, a jak wejdzie się w rozwiązanie to link który podaje 	jest zły. Spędziłem nad tym dobrą godzinę zanim postanowiłem pobrać paczkę z gotowym rozwiązaniem i zobaczyłem, że tam jest ta strona lokalnie 	zrobiona...Także to zadanie też mam wzięte 
+
+4.	W części "Selectors" większość przykładowych zadań do załączonych materiałów video to dosłownie jednofunkcyjne pliki,
+	pokazujące możliwości UI Designera. Także w tej częsci mam dość niewiele wrzuconych xamli (poza tymi z części practice).
+	
+5. TBC
