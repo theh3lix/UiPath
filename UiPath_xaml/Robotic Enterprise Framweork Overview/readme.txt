@@ -1,0 +1,1 @@
+Tutaj tak naprawdę było tylko podpięcie wcześniej zrobionych procesów pod szablon REFrameworka.

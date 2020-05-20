@@ -13,4 +13,10 @@
 4.	W części "Selectors" większość przykładowych zadań do załączonych materiałów video to dosłownie jednofunkcyjne pliki,
 	pokazujące możliwości UI Designera. Także w tej częsci mam dość niewiele wrzuconych xamli (poza tymi z części practice).
 	
-5. TBC
+5. 	W części "Orchestrator for Developers" nie bardzo wiedziałem jak dokumentować postęp, dlatego jest tam kilkanaście ss'ów 
+	z różnych etapów w orchestratorze. Jedynie zadanie z Practice8 było większe, dlatego to zamknąłem w osobnym folderze.
+
+6.	Był mały problem z połączeniem robota z orchestratorem. Tutaj pomocny okazał się ten link: 
+	https://forum.uipath.com/t/new-requirements-for-robot-to-orchestrator-connection/153915 (to jakby komuś było kiedyś potrzebne)
+	
+7.	Karta 'schedule' to teraz 'triggers'
